@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Rohan Tomar</h1>
 <h3 align="center">A Tech and Health freak</h3>
-
+<h3 align="left">My Expertise: Django <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+        + React           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+ </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/rohan-tomar17/" target="blank">
