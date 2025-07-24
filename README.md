@@ -3,7 +3,6 @@
 </div>
 
 # <div align="center">🚀 Hi, I'm Rohan Tomar</div>
-### <div align="center">Tech & Health Enthusiast</div>
 
 ## 💫 My Core Tech Stack
 
