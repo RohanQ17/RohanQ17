@@ -15,7 +15,9 @@
   
   ### React + Django REST + AWS + Supabase
   
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60%" />
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/matyo91/matyo91/main/assets/matrix.gif" width="60%" alt="Matrix Animation" />
+  </div>
 </div>
 
 ---
@@ -53,16 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=synthwave&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -80,10 +72,14 @@
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🎵 Coding Soundtrack
-*Currently vibing to synthwave while debugging* 🎧
+### 🎵 Currently Jamming To
+*Crawling - Linkin Park (Hybrid Theory)* 🎧
 
-<img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=your-spotify-username&theme=dark" alt="Spotify Playing" />
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/14/LinkinParkHybridTheoryAlbumCover.jpg" width="200" alt="Hybrid Theory Album Cover" />
+  
+  *"Crawling in my skin, these wounds they will not heal..."* 🎵
+</div>
 
 ---
 
