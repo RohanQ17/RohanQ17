@@ -5,13 +5,14 @@
 # <div align="center">🚀 Hi, I'm Rohan Tomar</div>
 
 ## <div align = "center">💫 My Core Tech Stack
-<img src="https://skillicons.dev/icons?i=react,django,aws,supabase&theme=dark" alt="Main Tech Stack" />
+
+
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,django,aws,supabase&theme=dark" alt="Main Tech Stack" />
   
   ### React + Django REST + AWS + Supabase
 </div>
-
-<div align="center">
-  
 </div>
 
 ---
