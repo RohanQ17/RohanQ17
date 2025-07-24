@@ -1,96 +1,94 @@
-<h1 align="center">Hi, I'm Rohan Tomar 👨‍💻</h1>
-<h3 align="center">A Tech and Health freak 🧠💪</h3>
-
 <div align="center">
-  <img src="https://i.gifer.com/origin/29/29a5686d4b9d7b51813f2324fba47b29.gif" width="200px" alt="retro-computer" />
+  
+# 🚀 Hi, I'm Rohan Tomar
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Tech+%26+Health+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+
 </div>
 
 ---
 
-### 🚀 My Main Tech Stack:
+## 💫 My Core Tech Stack
 
-<h3 align="left">
-React 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" align="center"/>
-+
-Django REST 
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" align="center"/>
-+
-AWS 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" align="center"/>
-+
-Supabase 
-<img src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-light.svg" alt="supabase" width="40" height="40" align="center"/>
-</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,django,aws,supabase&theme=dark" alt="Main Tech Stack" />
+  
+  ### React + Django REST + AWS + Supabase
+  
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60%" />
+</div>
 
 ---
 
-### 🌐 Connect with me:
+## 🛠️ Technologies & Tools
 
-<p align="left">
-  <a href="https://linkedin.com/in/rohan-tomar17/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
 
----
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
 
-### 🛠️ Languages and Tools:
+### ⚙️ Backend & Database  
+<img src="https://skillicons.dev/icons?i=django,python,postgresql,supabase&theme=dark" />
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="60">
-        <a href="https://www.w3schools.com/c/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-        </a>
-      </td>
-      <td align="center" width="60">
-        <a href="https://www.opengl.org/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/OpenGL_Logo.svg" alt="opengl" width="40" height="40"/>
-        </a>
-      </td>
-      <td align="center" width="60">
-        <a href="https://www.linux.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-        </a>
-      </td>
-      <td align="center" width="60">
-        <a href="https://www.djangoproject.com/" target="_blank">
-          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-        </a>
-      </td>
-      <td align="center" width="60">
-        <a href="https://reactjs.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-        </a>
-      </td>
-      <td align="center" width="60">
-        <a href="https://tailwindcss.com/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-        </a>
-      </td>
-      <td align="center" width="60">
-        <a href="https://www.postgresql.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-        </a>
-      </td>
-      <td align="center" width="60">
-        <a href="https://aws.amazon.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-        </a>
-      </td>
-      <td align="center" width="60">
-        <a href="https://supabase.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-light.svg" alt="supabase" width="40" height="40"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,git&theme=dark" />
+
+### 🎨 Graphics & Systems
+<img src="https://skillicons.dev/icons?i=c,cpp,opengl&theme=dark" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:202020,100:000000&height=120&section=footer" />
-</p>
+## 🎯 What I Do
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%"/>
+
+- 🔭 Building full-stack applications with **React** & **Django REST Framework**
+- ☁️ Deploying scalable solutions on **AWS**
+- 🗄️ Managing databases with **PostgreSQL** & **Supabase**
+- 🎮 Exploring **OpenGL** for graphics programming
+- 🐧 Daily driving **Linux** for development
+- 💪 Balancing code with fitness and health optimization
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=synthwave&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/rohan-tomar17/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🎵 Coding Soundtrack
+*Currently vibing to synthwave while debugging* 🎧
+
+<img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=your-spotify-username&theme=dark" alt="Spotify Playing" />
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views" />
+
+**"Code is like humor. When you have to explain it, it's bad."** - Cory House
+
+</div>
