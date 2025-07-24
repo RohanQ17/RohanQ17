@@ -40,7 +40,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/rohan-tomar17/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohandelhi2003@gmail.com)
 
 </div>
 
@@ -61,9 +61,5 @@
 </div>
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views" />
-
-**"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
 </div>
