@@ -3,9 +3,6 @@
 </div>
 
 # <div align="center">🚀 Hi, I'm Rohan Tomar</div>
-
-
-
 ## <div align = "center">💫 My Core Tech Stack</div>
 
 <div align="center">
