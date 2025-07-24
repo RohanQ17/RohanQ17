@@ -4,7 +4,7 @@
 
 # <div align="center">🚀 Hi, I'm Rohan Tomar</div>
 
-## 💫 My Core Tech Stack
+## <div align = "center">💫 My Core Tech Stack</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,django,aws,supabase&theme=dark" alt="Main Tech Stack" />
@@ -48,7 +48,7 @@
 
 <div align="center">
   
-### 💭 Random Dev Quote
+### 💭 Today's Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🎵 Currently Jamming To
