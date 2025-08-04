@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Matrix Rain" />
 </div>
 
-# <div align="center">🚀 Hi, I'm Rohan Tomar</div>
+# <div align="center">Hi, I'm Rohan Tomar</div>
 
-## <div align = "center">💫 My Core Tech Stack
+## <div align = "center">My Core Tech Stack
 
 
 
