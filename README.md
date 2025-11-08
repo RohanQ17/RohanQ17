@@ -12,7 +12,7 @@
 
 ## <div align = "center">Systems/application stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cmake&theme=dark" alt="Main Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,visualstudio&theme=dark" alt="Main Tech Stack" />
   
   ### C++ & CMake 
 </div>
