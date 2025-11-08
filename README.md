@@ -7,7 +7,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,aws,supabase&theme=dark" alt="Main Tech Stack" />
   
-  ### Javascript + AWS + Supabase
 </div>
 </div>
 
