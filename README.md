@@ -9,9 +9,9 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,django,aws,supabase&theme=dark" alt="Main Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=C++,javascript,aws,sql&theme=dark" alt="Main Tech Stack" />
   
-  ### React + Django REST + AWS + Supabase
+  ### C++ + CMake / Javascript + AWS + Supabase
 </div>
 </div>
 
