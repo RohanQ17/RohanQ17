@@ -6,18 +6,14 @@
 
 ## <div align = "center">My Web Stack
 
-
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cmake,javascript,aws,supabase&theme=dark" alt="Main Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=javascript,aws,supabase&theme=dark" alt="Main Tech Stack" />
   
   ### Javascript + AWS + Supabase
 </div>
 </div>
+
 ## <div align = "center">My Systems/application dev Stack
-
-
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cmake&theme=dark" alt="Main Tech Stack" />
   
