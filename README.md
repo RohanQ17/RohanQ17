@@ -4,14 +4,24 @@
 
 # <div align="center">Hi, I'm Rohan Tomar</div>
 
-## <div align = "center">My Core Tech Stack
+## <div align = "center">My Web Stack
 
 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cmake,javascript,aws,supabase&theme=dark" alt="Main Tech Stack" />
   
-  ### C++ & CMake / Javascript + AWS + Supabase
+  ### Javascript + AWS + Supabase
+</div>
+</div>
+## <div align = "center">My Systems/application dev Stack
+
+
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cmake&theme=dark" alt="Main Tech Stack" />
+  
+  ### C++ & CMake 
 </div>
 </div>
 
