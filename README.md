@@ -2,8 +2,7 @@
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Matrix Rain" />
 </div>
 
-# <div align="center">Hi, I'm Lu</div>
-<div align ="center"><img src = "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/AJ0472s2.jpg?im=Resize,width=750"/></div>
+# <div align="center">Hi, Rohan Tomar</div>
 ## <div align = "center">My Web Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,aws,supabase&theme=dark" alt="Main Tech Stack" />
