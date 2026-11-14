@@ -1,12 +1,11 @@
 <div align="center">
-  <sub>SYSTEMS / WEB / CLOUD</sub>
   <h1>Rohan Tomar</h1>
   <p><strong>Software Engineer · Amazon Alexa</strong></p>
   <p>From C++ builds to web apps. Usually with music on.</p>
   <p>
-    <a href="https://linkedin.com/in/rohan-tomar17/"><img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" width="22" height="22" align="center" alt=""> LinkedIn</a>
+    <a href="https://linkedin.com/in/rohan-tomar17/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" width="28" height="28" align="center" alt="LinkedIn"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="mailto:rohandelhi2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&amp;theme=dark" width="22" height="22" align="center" alt=""> Email</a>
+    <a href="mailto:rohandelhi2003@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail&amp;theme=dark" width="28" height="28" align="center" alt="Email"></a>
   </p>
 </div>
 
@@ -17,7 +16,7 @@
     <td width="70%" valign="top">
       <sub>01 / AT THE KEYBOARD</sub>
       <br><br>
-      <img src="./terminal.svg" width="620" alt="Navy terminal-style GitHub profile and programming languages">
+      <img src="./terminal-navy.svg" width="620" alt="Navy terminal-style GitHub profile and programming languages">
     </td>
     <td width="30%" valign="top" align="center">
       <sub>02 / IN THE HEADPHONES</sub>
