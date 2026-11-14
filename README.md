@@ -1,50 +1,31 @@
+<div align="center">
+  <sub>SYSTEMS / WEB / CLOUD</sub>
+  <h1>Rohan Tomar</h1>
+  <p><strong>Software Engineer · Amazon Alexa</strong></p>
+  <p>From C++ builds to web apps. Usually with music on.</p>
+  <p>
+    <a href="https://linkedin.com/in/rohan-tomar17/">LinkedIn ↗</a>
+    &nbsp; / &nbsp;
+    <a href="mailto:rohandelhi2003@gmail.com">Email ↗</a>
+  </p>
+</div>
+
+<br>
+
 <table>
   <tr>
-    <td width="52%" valign="top">
-      <sub>ROHAN TOMAR / SOFTWARE ENGINEER</sub>
-      <h1>Building things.<br>Connecting dots.</h1>
-      <p>
-        Currently at <strong>Amazon Alexa.</strong>
-      </p>
-      <p>
-        My corner of software spans systems programming,<br>
-        web applications, and the cloud.
-      </p>
-      <p>
-        <code>C++</code>
-        <code>CMake</code>
-        <code>JavaScript</code>
-        <code>AWS</code>
-      </p>
-      <br>
-      <a href="https://linkedin.com/in/rohan-tomar17/">
-        LinkedIn ↗
-      </a>
-      &nbsp; / &nbsp;
-      <a href="mailto:rohandelhi2003@gmail.com">
-        Say hello ↗
-      </a>
+    <td width="58%" valign="top">
+      <sub>01 / AT THE KEYBOARD</sub>
+      <br><br>
+      <img src="./terminal.svg" width="480" alt="Terminal-style GitHub profile and programming languages">
     </td>
-    <td width="48%" valign="top">
-      <sub>ON MY RADAR</sub>
+    <td width="42%" valign="top" align="center">
+      <sub>02 / IN THE HEADPHONES</sub>
       <br><br>
-      <img
-        src="./github-metrics.svg"
-        width="360"
-        alt="Technology topics I follow on GitHub"
-      >
-      <br><br>
-      <sub>ON MY HEADPHONES</sub>
-      <br><br>
-      <img
-        src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a"
-        width="64"
-        alt="Hybrid Theory album cover"
-      >
-      <p>
-        <strong>Crawling</strong><br>
-        <sub>Linkin Park — Hybrid Theory</sub>
-      </p>
+      <a href="https://www.radiohead.com/library/#okc">
+        <img src="https://coverartarchive.org/release/6a09041b-0f79-3278-88d9-0552dd28d37f/front-500" width="220" alt="Radiohead — OK Computer album cover">
+      </a>
+      <p><strong>OK Computer</strong><br><sub>Radiohead / 1997</sub></p>
     </td>
   </tr>
 </table>
