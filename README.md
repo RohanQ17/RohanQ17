@@ -1,71 +1,45 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Matrix Rain" />
-</div>
 
-# <div align="center">Hi, Rohan Tomar</div>
-## <div align = "center">My Web Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,aws,supabase&theme=dark" alt="Main Tech Stack" />
-  
-</div>
-</div>
+  <h1>Hi, I'm Rohan Tomar 👋</h1>
 
-## <div align = "center">Systems/application stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cmake,visualstudio&theme=dark" alt="Main Tech Stack" />
-  
-  ### C++ & CMake 
-</div>
-</div>
+  <p>
+    <strong>Software Engineer @ Amazon Alexa</strong>
+  </p>
 
----
+  <p>
+    From C++ builds to web apps.<br>
+    I enjoy working across systems, the web, and the cloud.
+  </p>
 
-## 🛠️ Technologies & Tools
+  <br>
 
-<div align="center">
+  <img
+    src="https://skillicons.dev/icons?i=cpp,cmake,js,react,aws&theme=dark"
+    alt="C++, CMake, JavaScript, React, and AWS"
+  />
 
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
+  <p><sub>C++ & CMake · JavaScript & React · AWS</sub></p>
 
-### ⚙️ Backend & Database  
-<img src="https://skillicons.dev/icons?i=django,python,postgresql,supabase&theme=dark" />
+  <br>
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,git&theme=dark" />
+  <a href="https://linkedin.com/in/rohan-tomar17/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:rohandelhi2003@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 
-### 🎨 Graphics & Systems
-<img src="https://skillicons.dev/icons?i=c,cpp,opengl&theme=dark" />
+  <br><br>
 
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/rohan-tomar17/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohandelhi2003@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 Today's Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🎵 Currently Jamming To
-*Crawling - Linkin Park (Hybrid Theory)* 🎧
-
-<div align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" width="200" alt="Hybrid Theory Album Cover" />
-  
-  *"Crawling in my skin, these wounds they will not heal..."* 🎵
-</div>
-
----
+  <p>
+    🎧 <sub>On repeat: <strong>Crawling</strong> — Linkin Park · Hybrid Theory</sub>
+  </p>
 
 </div>
